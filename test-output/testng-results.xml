@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-31T11:27:20 EDT" name="Default suite" finished-at="2022-05-31T11:29:20 EDT" duration-ms="119835">
+    <groups>
+    </groups>
+    <test started-at="2022-05-31T11:27:20 EDT" name="Default test" finished-at="2022-05-31T11:29:20 EDT" duration-ms="119835">
+      <class name="tests.AddToCartTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:27:20 EDT" name="beforeMethod" finished-at="2022-05-31T11:27:27 EDT" duration-ms="6433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="OpenSearchBox()[pri:1, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:27:27 EDT" name="OpenSearchBox" finished-at="2022-05-31T11:27:30 EDT" duration-ms="3390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenSearchBox -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:27:30 EDT" name="afterMethod" finished-at="2022-05-31T11:27:32 EDT" duration-ms="2121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:27:32 EDT" name="beforeMethod" finished-at="2022-05-31T11:27:39 EDT" duration-ms="6270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="listAllOption()[pri:2, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:27:39 EDT" name="listAllOption" finished-at="2022-05-31T11:27:44 EDT" duration-ms="5340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listAllOption -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:27:44 EDT" name="afterMethod" finished-at="2022-05-31T11:27:46 EDT" duration-ms="1510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:27:46 EDT" name="beforeMethod" finished-at="2022-05-31T11:27:52 EDT" duration-ms="6571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="openBooksPage()[pri:3, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:27:52 EDT" name="openBooksPage" finished-at="2022-05-31T11:28:02 EDT" duration-ms="10289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBooksPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:28:02 EDT" name="afterMethod" finished-at="2022-05-31T11:28:05 EDT" duration-ms="2166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:28:05 EDT" name="beforeMethod" finished-at="2022-05-31T11:28:12 EDT" duration-ms="7514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="clickOnCartPage()[pri:4, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:28:12 EDT" name="clickOnCartPage" finished-at="2022-05-31T11:28:27 EDT" duration-ms="14757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCartPage -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:28:27 EDT" name="afterMethod" finished-at="2022-05-31T11:28:29 EDT" duration-ms="1683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:28:29 EDT" name="beforeMethod" finished-at="2022-05-31T11:28:35 EDT" duration-ms="6618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="clickOnAddToCartButton()[pri:5, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:28:35 EDT" name="clickOnAddToCartButton" finished-at="2022-05-31T11:28:51 EDT" duration-ms="15796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAddToCartButton -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:28:51 EDT" name="afterMethod" finished-at="2022-05-31T11:28:53 EDT" duration-ms="2005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:28:53 EDT" name="beforeMethod" finished-at="2022-05-31T11:29:00 EDT" duration-ms="6579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyCart()[pri:6, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:29:00 EDT" name="verifyCart" finished-at="2022-05-31T11:29:18 EDT" duration-ms="18517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCart -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.AddToCartTest@1ba9117e]" started-at="2022-05-31T11:29:18 EDT" name="afterMethod" finished-at="2022-05-31T11:29:20 EDT" duration-ms="2235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.AddToCartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
